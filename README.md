@@ -1,7 +1,4 @@
-# TravClan — Business Analyst Intern Assessments
-
-**Applicant:** Happy Kumar  
-**Role:** Business Analyst Intern  
+# TravClan — Business Analyst 
 **Company:** TravClan (B2B Travel Tech Platform)
 
 ---
@@ -16,7 +13,7 @@ travclan_assessment/
 
 ---
 
-## Assessment 1 — Hotel Bookings Analysis
+## Hotel Bookings Analysis
 
 Analysis of 30,000 hotel booking transactions covering channel performance, cancellation behaviour, room type trends, and seasonal patterns. Delivered as a written report with a Looker Studio dashboard.
 
@@ -28,7 +25,7 @@ Analysis of 30,000 hotel booking transactions covering channel performance, canc
 
 ---
 
-## Assessment 2 — BA Intern Technical Assessment
+## Business Analyst
 
 Four-section structured assessment covering data quality auditing, cancellation root cause analysis, SQL schema design, and a live weather API mini-project.
 
