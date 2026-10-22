@@ -1,6 +1,4 @@
-# Assessment 1 — Hotel Bookings Data Analysis
-
-**Role:** Business Analyst Intern | **Company:** TravClan (B2B Travel Tech)  
+# Hotel Bookings Data Analysis
 **Dataset:** `Hotel_bookings_final.csv` — 30,000 booking records from an online travel platform
 
 ---
